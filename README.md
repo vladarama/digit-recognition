@@ -10,9 +10,13 @@ The question is simple; How accurately can machine learning, using Convolutional
 
 ### What I learned 
 • Collaborated with two other teammates to complete this research project in time
+
 • Learned how to implement different classification models from sklearn such as KNN, SVM and Random Forest Classifier
+
 • Understood how to create a convolutional neural network (CNN) using TensorFlow and Keras
+
 • Optimized the CNN model to achieve a 99% accuracy on the testing dataset
+
 • Analysed the accuracy of our models by plotting graphs and tables using Seaborn and Matplotlib and by measuring different accuracy scores such as the f1-score
 
 
